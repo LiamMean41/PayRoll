@@ -1,0 +1,6 @@
+D:\College\Object Oreinted Programming\PayrollApp\PayrollApp\bin\Debug\PayrollApp.exe.config
+D:\College\Object Oreinted Programming\PayrollApp\PayrollApp\bin\Debug\PayrollApp.exe
+D:\College\Object Oreinted Programming\PayrollApp\PayrollApp\bin\Debug\PayrollApp.pdb
+D:\College\Object Oreinted Programming\PayrollApp\PayrollApp\obj\Debug\PayrollApp.csprojResolveAssemblyReference.cache
+D:\College\Object Oreinted Programming\PayrollApp\PayrollApp\obj\Debug\PayrollApp.exe
+D:\College\Object Oreinted Programming\PayrollApp\PayrollApp\obj\Debug\PayrollApp.pdb
